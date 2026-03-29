@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "L3ZslM993ok=",
+  "success": true,
+  "projectFilePath": "D:\\tutorial_docnet_web\\v10.1\\ProjectsManagement\\ProjectsManagement\\ProjectsManagement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jihun\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.5\\microsoft.aspnetcore.openapi.10.0.5.nupkg.sha512",
+    "C:\\Users\\jihun\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512",
+    "C:\\Users\\jihun\\.nuget\\packages\\scalar.aspnetcore\\2.13.16\\scalar.aspnetcore.2.13.16.nupkg.sha512"
+  ],
+  "logs": []
+}
