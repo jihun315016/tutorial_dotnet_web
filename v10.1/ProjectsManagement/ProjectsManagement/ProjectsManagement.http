@@ -21,6 +21,6 @@ Content-Type: application/json
 
 ### Delete a Product
 
-DELETE {{ProductsManagement_HostAddress}}/api/products/3
+DELETE {{ProductsManagement_HostAddress}}/api/products/3 
 Accept: application/json
 
