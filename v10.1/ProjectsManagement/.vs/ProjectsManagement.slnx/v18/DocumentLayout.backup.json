@@ -1,30 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\jihun\\source\\repos\\ProjectsManagement\\",
+  "WorkspaceRootPath": "D:\\tutorial_docnet_web\\v10.1\\ProjectsManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{52AE6BD6-D8F9-404B-A114-C1A3AE5E30D5}|ProjectsManagement\\ProjectsManagement.csproj|c:\\users\\jihun\\source\\repos\\projectsmanagement\\projectsmanagement\\projectsmanagement.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{52AE6BD6-D8F9-404B-A114-C1A3AE5E30D5}|ProjectsManagement\\ProjectsManagement.csproj|solutionrelative:projectsmanagement\\projectsmanagement.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{E649DED2-FAF2-6835-8899-AD2A750C7F12}|ProjectsManagement\\ProjectsManagement.csproj|d:\\tutorial_docnet_web\\v10.1\\projectsmanagement\\projectsmanagement\\projectsmanagement.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{E649DED2-FAF2-6835-8899-AD2A750C7F12}|ProjectsManagement\\ProjectsManagement.csproj|solutionrelative:projectsmanagement\\projectsmanagement.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52AE6BD6-D8F9-404B-A114-C1A3AE5E30D5}|ProjectsManagement\\ProjectsManagement.csproj|c:\\users\\jihun\\source\\repos\\projectsmanagement\\projectsmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52AE6BD6-D8F9-404B-A114-C1A3AE5E30D5}|ProjectsManagement\\ProjectsManagement.csproj|solutionrelative:projectsmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E649DED2-FAF2-6835-8899-AD2A750C7F12}|ProjectsManagement\\ProjectsManagement.csproj|d:\\tutorial_docnet_web\\v10.1\\projectsmanagement\\projectsmanagement\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E649DED2-FAF2-6835-8899-AD2A750C7F12}|ProjectsManagement\\ProjectsManagement.csproj|solutionrelative:projectsmanagement\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52AE6BD6-D8F9-404B-A114-C1A3AE5E30D5}|ProjectsManagement\\ProjectsManagement.csproj|c:\\users\\jihun\\source\\repos\\projectsmanagement\\projectsmanagement\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{52AE6BD6-D8F9-404B-A114-C1A3AE5E30D5}|ProjectsManagement\\ProjectsManagement.csproj|solutionrelative:projectsmanagement\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{E649DED2-FAF2-6835-8899-AD2A750C7F12}|ProjectsManagement\\ProjectsManagement.csproj|d:\\tutorial_docnet_web\\v10.1\\projectsmanagement\\projectsmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E649DED2-FAF2-6835-8899-AD2A750C7F12}|ProjectsManagement\\ProjectsManagement.csproj|solutionrelative:projectsmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52AE6BD6-D8F9-404B-A114-C1A3AE5E30D5}|ProjectsManagement\\ProjectsManagement.csproj|c:\\users\\jihun\\source\\repos\\projectsmanagement\\projectsmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{52AE6BD6-D8F9-404B-A114-C1A3AE5E30D5}|ProjectsManagement\\ProjectsManagement.csproj|solutionrelative:projectsmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{E649DED2-FAF2-6835-8899-AD2A750C7F12}|ProjectsManagement\\ProjectsManagement.csproj|d:\\tutorial_docnet_web\\v10.1\\projectsmanagement\\projectsmanagement\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E649DED2-FAF2-6835-8899-AD2A750C7F12}|ProjectsManagement\\ProjectsManagement.csproj|solutionrelative:projectsmanagement\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52AE6BD6-D8F9-404B-A114-C1A3AE5E30D5}|ProjectsManagement\\ProjectsManagement.csproj|c:\\users\\jihun\\source\\repos\\projectsmanagement\\projectsmanagement\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{52AE6BD6-D8F9-404B-A114-C1A3AE5E30D5}|ProjectsManagement\\ProjectsManagement.csproj|solutionrelative:projectsmanagement\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52AE6BD6-D8F9-404B-A114-C1A3AE5E30D5}|ProjectsManagement\\ProjectsManagement.csproj|c:\\users\\jihun\\source\\repos\\projectsmanagement\\projectsmanagement\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52AE6BD6-D8F9-404B-A114-C1A3AE5E30D5}|ProjectsManagement\\ProjectsManagement.csproj|solutionrelative:projectsmanagement\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E649DED2-FAF2-6835-8899-AD2A750C7F12}|ProjectsManagement\\ProjectsManagement.csproj|d:\\tutorial_docnet_web\\v10.1\\projectsmanagement\\projectsmanagement\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E649DED2-FAF2-6835-8899-AD2A750C7F12}|ProjectsManagement\\ProjectsManagement.csproj|solutionrelative:projectsmanagement\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,84 +30,72 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\tutorial_docnet_web\\v10.1\\ProjectsManagement\\ProjectsManagement\\Program.cs",
+              "RelativeDocumentMoniker": "ProjectsManagement\\Program.cs",
+              "ToolTip": "D:\\tutorial_docnet_web\\v10.1\\ProjectsManagement\\ProjectsManagement\\Program.cs",
+              "RelativeToolTip": "ProjectsManagement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T05:38:38.115Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\tutorial_docnet_web\\v10.1\\ProjectsManagement\\ProjectsManagement\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ProjectsManagement\\Models\\Product.cs",
+              "ToolTip": "D:\\tutorial_docnet_web\\v10.1\\ProjectsManagement\\ProjectsManagement\\Models\\Product.cs",
+              "RelativeToolTip": "ProjectsManagement\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T06:00:22.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\tutorial_docnet_web\\v10.1\\ProjectsManagement\\ProjectsManagement\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ProjectsManagement\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\tutorial_docnet_web\\v10.1\\ProjectsManagement\\ProjectsManagement\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ProjectsManagement\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvyYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T05:58:57.503Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ProjectsManagement.http",
-              "DocumentMoniker": "C:\\Users\\jihun\\source\\repos\\ProjectsManagement\\ProjectsManagement\\ProjectsManagement.http",
+              "DocumentMoniker": "D:\\tutorial_docnet_web\\v10.1\\ProjectsManagement\\ProjectsManagement\\ProjectsManagement.http",
               "RelativeDocumentMoniker": "ProjectsManagement\\ProjectsManagement.http",
-              "ToolTip": "C:\\Users\\jihun\\source\\repos\\ProjectsManagement\\ProjectsManagement\\ProjectsManagement.http",
-              "RelativeToolTip": "ProjectsManagement\\ProjectsManagement.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\tutorial_docnet_web\\v10.1\\ProjectsManagement\\ProjectsManagement\\ProjectsManagement.http*",
+              "RelativeToolTip": "ProjectsManagement\\ProjectsManagement.http*",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
               "WhenOpened": "2026-03-29T05:39:17.833Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\jihun\\source\\repos\\ProjectsManagement\\ProjectsManagement\\Program.cs",
-              "RelativeDocumentMoniker": "ProjectsManagement\\Program.cs",
-              "ToolTip": "C:\\Users\\jihun\\source\\repos\\ProjectsManagement\\ProjectsManagement\\Program.cs",
-              "RelativeToolTip": "ProjectsManagement\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T05:38:38.115Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
               "Title": "appsettings.Production.json",
-              "DocumentMoniker": "C:\\Users\\jihun\\source\\repos\\ProjectsManagement\\ProjectsManagement\\appsettings.Production.json",
+              "DocumentMoniker": "D:\\tutorial_docnet_web\\v10.1\\ProjectsManagement\\ProjectsManagement\\appsettings.Production.json",
               "RelativeDocumentMoniker": "ProjectsManagement\\appsettings.Production.json",
-              "ToolTip": "C:\\Users\\jihun\\source\\repos\\ProjectsManagement\\ProjectsManagement\\appsettings.Production.json",
+              "ToolTip": "D:\\tutorial_docnet_web\\v10.1\\ProjectsManagement\\ProjectsManagement\\appsettings.Production.json",
               "RelativeToolTip": "ProjectsManagement\\appsettings.Production.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-03-29T05:36:56.839Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\jihun\\source\\repos\\ProjectsManagement\\ProjectsManagement\\appsettings.json",
-              "RelativeDocumentMoniker": "ProjectsManagement\\appsettings.json",
-              "ToolTip": "C:\\Users\\jihun\\source\\repos\\ProjectsManagement\\ProjectsManagement\\appsettings.json",
-              "RelativeToolTip": "ProjectsManagement\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-29T05:35:16.205Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\jihun\\source\\repos\\ProjectsManagement\\ProjectsManagement\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "ProjectsManagement\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\jihun\\source\\repos\\ProjectsManagement\\ProjectsManagement\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "ProjectsManagement\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T05:35:00.377Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\jihun\\source\\repos\\ProjectsManagement\\ProjectsManagement\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "ProjectsManagement\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\jihun\\source\\repos\\ProjectsManagement\\ProjectsManagement\\Properties\\launchSettings.json",
-              "RelativeToolTip": "ProjectsManagement\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-29T05:33:54.406Z",
               "EditorCaption": ""
             }
           ]

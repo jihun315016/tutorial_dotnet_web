@@ -1,6 +1,26 @@
-@ProjectsManagement_HostAddress = http://localhost:5085
+@ProductsManagement_HostAddress = http://localhost:5085
 
-GET {{ProjectsManagement_HostAddress}}/weatherforecast/
+GET {{ProductsManagement_HostAddress}}/api/products/
 Accept: application/json
 
-###
+### Get Product By Id
+GET {{ProductsManagement_HostAddress}}/api/products/1
+Accept: application/json
+
+### Update a Product
+
+PUT {{ProductsManagement_HostAddress}}/api/products/1
+Accept: application/json
+Content-Type: application/json
+{
+  "id": 2,
+  "name": "Smartphone",
+  "description": "Smartphone Product2 2026",
+  "pricd": 120.99
+}
+
+### Delete a Product
+
+DELETE {{ProductsManagement_HostAddress}}/api/products/3
+Accept: application/json
+
