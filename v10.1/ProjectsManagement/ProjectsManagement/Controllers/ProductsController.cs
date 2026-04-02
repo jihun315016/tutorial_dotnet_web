@@ -22,6 +22,13 @@ namespace ProjectsManagement.Controllers
             return Ok(service.GetAllProducts());
         }
 
+        [HttpPost]
+        public IActionResult CreateProduct(Product product)
+        {
+            var createdProduct = service.AddProduct(product);
+            return CreatedAtAction(nameof(GetProductById), new { id = createdProduct.Id }, createdProduct);
+        }
+
         [HttpGet]
         [Route("{id}")]
         public IActionResult GetProductById(int id)

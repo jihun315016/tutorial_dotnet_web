@@ -8,6 +8,6 @@
 
         public string? Description { get; set; }
 
-        public required decimal Pricd { get; set; }
+        public required decimal Price { get; set; }
     }
 }

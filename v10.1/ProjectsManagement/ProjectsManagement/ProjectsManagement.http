@@ -16,7 +16,19 @@ Content-Type: application/json
   "id": 2,
   "name": "Smartphone",
   "description": "Smartphone Product2 2026",
-  "pricd": 120.99
+  "price": 120.99
+}
+
+### Add a Product
+
+POST {{ProductsManagement_HostAddress}}/api/products/
+Accept: application/json
+Content-Type: application/json
+{
+  "id": 2,
+  "name": "Smartphone",
+  "description": "Smartphone Product2 2026",
+  "price": 120.99
 }
 
 ### Delete a Product

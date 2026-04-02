@@ -5,36 +5,53 @@ namespace ProjectsManagement.Services
 {
     public class ProductService : IProductService
     {
-        private readonly AppDbContext _appDbContext;
+        private readonly AppDbContext context;
 
         public ProductService(AppDbContext appDbContext)
         {
-            _appDbContext = appDbContext;
+            context = appDbContext;
         }
 
-        public void AddProduct(Product product)
+        public Product AddProduct(Product product)
         {
-            throw new NotImplementedException();
+            var newProduct = context.Products.Add(product);
+            context.SaveChanges();
+
+            return newProduct.Entity;
         }
 
         public void DeleteProduct(int id)
         {
-            throw new NotImplementedException();
+            var product = context.Products.Find(id);
+            if (product != null)
+            {
+                context.Products.Remove(product);
+                context.SaveChanges();
+            }
         }
 
         public IEnumerable<Product> GetAllProducts()
         {
-            throw new NotImplementedException();
+            var products = context.Products.ToList();
+            return products;
         }
 
         public Product? GetProductById(int id)
         {
-            throw new NotImplementedException();
+            var product = context.Products.Find(id);
+            return product;
         }
 
         public void UpdateProduct(int id, Product product)
         {
-            throw new NotImplementedException();
+            var existingProduct = context.Products.Find(id);
+            if (existingProduct != null)
+            {
+                existingProduct.Name = product.Name;
+                existingProduct.Description = product.Description;
+                existingProduct.Price = product.Price;
+                context.SaveChanges();
+            }
         }
     }
 }
