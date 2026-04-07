@@ -1,4 +1,5 @@
 using Microsoft.EntityFrameworkCore;
+using Scalar.AspNetCore;
 using TodoApi.Data;
 using TodoApi.EndPoints;
 using TodoApi.Filters;
@@ -13,6 +14,8 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddDbContext<TodoDb>(opt => opt.UseInMemoryDatabase("TodoList"));
 // DB 관련 예외 발생 시 상세한 페이지를 보여주는 필터 추가
 builder.Services.AddDatabaseDeveloperPageExceptionFilter();
+
+builder.Services.AddOpenApi();
 
 // 같은 인터페이스(ICache)를 여러 개 등록할 어떤 구현체를 주입할지 구분하는 기능
 builder.Services.AddKeyedSingleton<ICache, BigCache>("big");
@@ -31,7 +34,12 @@ app.MapGet("/", () => "Hello World!");
 app.Logger.LogInformation("The app started");
 
 // 에러 처리 미들웨어: 개발 환경이 아닐 때 예외가 나면 "/oops" 경로로 사용자에게 안내
-if (!app.Environment.IsDevelopment())
+if (app.Environment.IsDevelopment())
+{
+    app.MapOpenApi();          // /openapi/v1.json 경로 생성
+    app.MapScalarApiReference(); // /scalar/v1 경로로 문서 시각화
+}
+else
 {
     app.UseExceptionHandler("/oops");
 }
