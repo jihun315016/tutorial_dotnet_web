@@ -53,6 +53,9 @@ app.MapGet("/config", () => message);
 
 app.MapGet("/oops", () => "Oops! An error happened.");
 
+app.MapMethods("/options-or-head", new[] { "GET", "POST" },
+                          () => "This is an options or head request ");
+
 // Keyed Services: 매개변수 앞에 [FromKeyedServices("키")]를 붙여 원하는 객체를 가져옴
 app.MapGet("/big", ([FromKeyedServices("big")] ICache bigCache) => bigCache.Get("date"));
 app.MapGet("/small", ([FromKeyedServices("small")] ICache smallCache) => smallCache.Get("date"));

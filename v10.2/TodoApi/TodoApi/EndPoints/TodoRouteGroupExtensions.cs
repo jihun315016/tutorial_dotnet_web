@@ -59,7 +59,7 @@ namespace TodoApi.EndPoints
             db.Todos.Add(todo);
             await db.SaveChangesAsync();
 
-            return TypedResults.Created($"/todoitems/{todo.Id}", dto);
+            return TypedResults.Created($"{todo.Id}", dto);
         }
 
         static async Task<IResult> UpdateTodo(int id, TodoItemDTO dto, TodoDb db)
